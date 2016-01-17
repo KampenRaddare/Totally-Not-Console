@@ -1,0 +1,24 @@
+* {
+    font-family: "Courier New";
+    font-size: 1.3em;
+    color: white;
+}
+body {
+    background-color: black;
+}
+#warningMessage {
+    font-size: 0.4em;
+    float: right;
+}
+#copyrightCover {
+    position: fixed;
+    background-color: white; /*Temp*/
+    width: 400px;
+    height: 30px;
+}
+#input {
+    background-color: black;
+    border-color: black;
+    outline: none;
+    visibility: hidden;
+}
